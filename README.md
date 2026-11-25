@@ -2,6 +2,14 @@
 
 从施工文档与巡检图片识别危险因素，定位到文献页码，并生成可下载的整改建议。
 
+## 演示与文档
+
+[![观看 SafeON 完整演示](docs/demo/demo-cover.jpg)](docs/demo/safeon-demo.mp4)
+
+[观看完整演示（MP4，约 60 秒）](docs/demo/safeon-demo.mp4) · [用户手册（PDF）](docs/manuals/user-manual.pdf) · [开发手册（PDF）](docs/manuals/developer-manual.pdf)
+
+视频依次展示：平台总览与模型配置 → 批量知识抽取与图谱 → 风险研判与整改报告。安装、启动与演示数据见下文「本地运行」，开发手册保留项目原版技术说明。
+
 ## 运行示例 · 一张施工日志如何变成整改建议
 
 | 输入：施工日志 | 输出：风险研判 |
