@@ -1,0 +1,1 @@
+"""SafeON FastAPI backend package."""

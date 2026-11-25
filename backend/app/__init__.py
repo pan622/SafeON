@@ -1,0 +1,1 @@
+"""SafeON backend application."""

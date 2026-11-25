@@ -1,0 +1,26 @@
+# Windows x64, Python 3.10. Standalone runtime (no global PyCharm environment).
+faiss-cpu==1.15.0
+langgraph==0.6.11
+langchain-core==0.3.86
+neo4j==5.28.6
+numpy==1.26.4
+openai==2.54.0
+paddleocr==2.7.3
+paddlepaddle==2.6.2
+opencv-python==4.6.0.66
+opencv-contrib-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+pdf2docx==0.5.8
+protobuf==3.20.2
+Pillow==12.3.0
+pydantic==2.10.6
+PyMuPDF==1.24.14
+python-docx==1.2.0
+torch==2.13.0
+sentence-transformers==5.1.2
+transformers==4.57.6
+fastapi==0.141.1
+uvicorn==0.52.4
+python-multipart==0.0.32
+keyring==25.7.0
+cryptography==50.0.0
